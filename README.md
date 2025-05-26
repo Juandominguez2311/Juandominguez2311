@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there! 👋 I'm Juan Dominguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+<img align="right" top="500" height="200" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 
 A Fullstack Developer from Argentina with a strong background in building and maintaining scalable web applications. I specialize in modern JavaScript/TypeScript technologies like React, Node.js, and NestJS, and I’m passionate about clean architecture, agile development, and delivering robust solutions. Here on GitHub, you’ll find projects that reflect my growth as a developer and my commitment to continuous learning. Let’s build something great together!
 
