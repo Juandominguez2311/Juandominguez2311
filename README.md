@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Juan Dominguez </b></h1>
+<h1 align="center"><b>Hi there! I'm Juan Dominguez </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img align="right" top="500" height="200" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 
