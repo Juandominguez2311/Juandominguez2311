@@ -47,5 +47,4 @@ A Fullstack Developer from Argentina with a strong background in building and ma
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Juandominguez2311&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Juandominguez2311)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Juandominguez2311&theme=material-palenight)](https://github.com/Juandominguez2311)
