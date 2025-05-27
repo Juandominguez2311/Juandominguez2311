@@ -44,3 +44,8 @@ A Fullstack Developer from Argentina with a strong background in building and ma
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
 </span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Juandominguez2311&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Juandominguez2311)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Juandominguez2311&theme=material-palenight)](https://github.com/Juandominguez2311)
