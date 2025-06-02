@@ -4,7 +4,6 @@
 
 A Fullstack Developer from Argentina with a strong background in building and maintaining scalable web applications. I specialize in modern JavaScript/TypeScript technologies like React, Node.js, , Nextjs, NestJs and Tailwind and I’m passionate about clean architecture, agile development, and delivering robust solutions. Here on GitHub, you’ll find projects that reflect my growth as a developer and my commitment to continuous learning.
 
-
 ## My Skills Include
 
 <h4> Languages </h4>
