@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hi there! I'm Juan Dominguez </b></h1>
+
 <!--  -->
 <img align="right" top="500" height="200" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 
